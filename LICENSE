@@ -1,6 +1,14 @@
 PIL / Pillow
 ------------
 
-The images in the pil-pillow directory are from https://github.com/python-imaging/Pillow.
+Images in pil-pillow/ are from https://github.com/python-imaging/Pillow.
 
-They are licensed as described in https://github.com/python-imaging/Pillow#python-imaging-library
+Licensed as described in https://github.com/python-imaging/Pillow#python-imaging-library
+
+W3C Web Platform Tests
+----------------------
+
+Images in w3c-web-platform-images/ are from https://github.com/w3c/web-platform-tests/tree/master/images.
+
+License: https://github.com/w3c/web-platform-tests/blob/master/LICENSE
+
