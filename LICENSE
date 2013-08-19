@@ -5,6 +5,32 @@ Images in pil-pillow/ are from https://github.com/python-imaging/Pillow.
 
 Licensed as described in https://github.com/python-imaging/Pillow#python-imaging-library
 
+The Python Imaging Library is
+
+Copyright (c) 1997-2009 by Secret Labs AB
+Copyright (c) 1995-2009 by Fredrik Lundh
+
+By obtaining, using, and/or copying this software and/or its
+associated documentation, you agree that you have read, understood,
+and will comply with the following terms and conditions:
+
+Permission to use, copy, modify, and distribute this software and its
+associated documentation for any purpose and without fee is hereby
+granted, provided that the above copyright notice appears in all
+copies, and that both that copyright notice and this permission notice
+appear in supporting documentation, and that the name of Secret Labs
+AB or the author not be used in advertising or publicity pertaining to
+distribution of the software without specific, written prior
+permission.
+
+SECRET LABS AB AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO
+THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS.  IN NO EVENT SHALL SECRET LABS AB OR THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT
+OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
 W3C Web Platform Tests
 ----------------------
 
@@ -12,3 +38,15 @@ Images in w3c-web-platform-images/ are from https://github.com/w3c/web-platform-
 
 License: https://github.com/w3c/web-platform-tests/blob/master/LICENSE
 
+Distributed under both the <a href="http://www.w3.org/Consortium/Legal/2008/04-testsuite-license">W3C Test Suite License</a> and the <a href="http://www.w3.org/Consortium/Legal/2008/03-bsd-license">W3C 3-clause BSD License</a>. To contribute to a W3C Test Suite, see the <a href="http://www.w3.org/2004/10/27-testcases">policies and contribution forms</a>. [sic]
+
+W3C SVG Test Suite
+------------------
+
+Images in w3c-svg-test-suite/ are from http://www.w3.org/Graphics/SVG/WG/wiki/Test_Suite_Overview.
+To get the entire archive which has additional images, see "Download archives of the Testsuite"
+at the bottom of the page.
+
+License: http://www.w3.org/Consortium/Legal/2002/copyright-documents-20021231
+
+Copyright © World Wide Web Consortium, (Massachusetts Institute of Technology, European Research Consortium for Informatics and Mathematics, Keio University, Beihang). All Rights Reserved. [sic]
